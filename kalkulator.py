@@ -1,0 +1,7 @@
+print("==============KALKULATOR=================")
+angka_pertama = int(input("Masukkan angka pertama: "))
+angka_kedua = int(input("Masukkan angka kedua: "))
+print(f"Hasil penjumlahan : {angka_pertama + angka_kedua}")
+print(f"Hasil pengurangan : {angka_pertama - angka_kedua}")
+print(f"Hasil perkalian : {angka_pertama * angka_kedua}")
+print(f"Hasil pembagian : {angka_pertama // angka_kedua}")
